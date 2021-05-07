@@ -6,7 +6,9 @@ Specifically built for Portswigger's Web Security Academy lab: Blind SQL injecti
 
 ## Install
 `git clone https://github.com/andrewvenson/gotruder.git`
+<br/>
 `cd gotruder`
+<br/>
 `go build` or `go run main.go`
 
-- further iterations pending depending on increase of knowledge and skill level
+Further iterations pending depending on increase of knowledge and skill level
